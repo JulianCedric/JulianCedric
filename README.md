@@ -1,4 +1,5 @@
-## Hi there! I'm Julian, a fullstack developer with ten years of consultative sales experience. 
+## Hi there! 
+## I'm Julian, a fullstack developer with ten years of consultative sales experience in various tech industries. 
 
 
 [<img  alt="codeSTACKr.com" src="/website.png" />](https://chayagreisman.com/)
