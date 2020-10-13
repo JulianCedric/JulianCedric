@@ -1,9 +1,6 @@
 ## Hi there! 
 ## I'm Julian, a fullstack developer with ten years of consultative sales experience in various tech industries. 
 
-
-[<img  alt="codeSTACKr.com" src="/website.png" />](https://chayagreisman.com/)
-
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=JulianCedric&show_icons=true&theme=gotham)](https://github.com/JulianCedric/github-readme-stats)
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JulianCedric&layout=compact)](https://github.com/JulianCedric/github-readme-stats)-->
