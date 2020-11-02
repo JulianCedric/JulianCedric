@@ -1,5 +1,13 @@
 ## Hi there! 
-## I'm Julian, a fullstack developer with ten years of consultative sales experience in various tech industries. 
+## I'm Julian, a recent graduate of Flatiron School’s Full Stack Software Engineering Program with ten years of consultative sales experience in various tech industries. Eager to combine past experience with new technical knowledge & skills to solve business problems as a Solutions Engineer. Technical proficiencies in Ruby, Rails, JavaScript (ES6), React, HTML, CSS, Git, and CRM Technologies (Salesforce).
+
+--
+My Blog: 
+https://medium.com/@julian.pormentilla
+
+--
+Presentation Sample:
+http://youtu.be/p8LVmUfnsl4 
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=JulianCedric&show_icons=true&theme=gotham)](https://github.com/JulianCedric/github-readme-stats)
 
