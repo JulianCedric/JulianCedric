@@ -1,5 +1,6 @@
 ## Hi there! 
-## I'm Julian, a recent graduate of Flatiron School’s Full Stack Software Engineering Program with ten years of consultative sales experience in various tech industries. Eager to combine past experience with new technical knowledge & skills to solve business problems as a Solutions Engineer. Technical proficiencies in Ruby, Rails, JavaScript (ES6), React, HTML, CSS, Git, and CRM Technologies (Salesforce).
+## I'm Julian, a recent graduate of Flatiron School’s Full Stack Software Engineering Program with ten years of consultative sales experience in various tech industries. Eager to combine past experience with new technical knowledge & skills to solve business problems as a Solutions Engineer. 
+## Technical proficiencies in Ruby, Rails, JavaScript (ES6), React, HTML, CSS, Git, and CRM Technologies (Salesforce).
 
 --
 My Blog: 
