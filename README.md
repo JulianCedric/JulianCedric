@@ -5,7 +5,7 @@ A life-long learner with a passion for Personal Development and a deep curiosity
 
 Eager to combine my past sales experience with my new technical skills to help solve complex problems and contribute to product innovations that translate into business-level growth.
 
-## Technical proficiencies in Ruby, Rails, JavaScript (ES6), React, HTML, CSS, Git, and CRM Technologies (Salesforce).
+Technical proficiencies in Ruby, Rails, JavaScript (ES6), React, HTML, CSS, Git, and CRM Technologies (Salesforce).
 
 --
 My Blog: 
