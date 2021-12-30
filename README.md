@@ -1,8 +1,8 @@
 ## Hi there! 
 
-I'm a Full Stack Software Engineer with experience in JavaScript, React, Ruby, and Rails. Former sales executive with a passion for learning and a hunger for personal and professional growth. A self-motivated professional eager to apply his skills and expertise to solving hard problems and contributing to technical innovations.
+Customer Success Manager with 8 years of experience selling SaaS and educational products in the Silicon Valley and NYC tech scenes. Passionate about all things EdTech and driven by a hunger for continuous personal and professional growth. Graduate of a coding bootcamp eager to apply his sales and technical expertise to solving hard problems, optimizing internal processes, uncovering new resell and upsell opportunities, and contributing to customer-centered technical innovations.
 
-Technical proficiencies in Ruby, Rails, JavaScript (ES6), React, HTML, CSS, Git, and CRM Technologies (Salesforce).
+Technical proficiencies in JavaScript, React, Ruby, Ruby on Rails, Salesforce CRM, HTML, CSS, Semantic UI, Git, MySQL Postgres, ActiveRecord.
 
 --
 My Blog: 
