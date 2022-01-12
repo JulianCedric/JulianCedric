@@ -1,6 +1,6 @@
 ## Hi there! 
 
-Customer Success professional with 8 years of experience selling SaaS and educational products in the Silicon Valley and NYC tech scenes. Passionate about all things EdTech and driven by a hunger for continuous personal and professional growth. Graduate of a coding bootcamp eager to apply his sales and technical expertise to solving hard problems, optimizing internal processes, uncovering new resell and upsell opportunities, and contributing to customer-centered technical innovations.
+Customer Success professional with technical skills and 8 years of experience selling SaaS and educational products in the Silicon Valley and NYC tech scenes. Passionate about all things EdTech and driven by a hunger for continuous personal and professional growth. Graduate of a coding bootcamp eager to apply his sales and technical expertise to solving hard problems, optimizing internal processes, uncovering new resell and upsell opportunities, and contributing to customer-centered technical innovations.
 
 Technical proficiencies in JavaScript, React, Ruby, Ruby on Rails, Salesforce CRM, HTML, CSS, Semantic UI, Git, MySQL Postgres, ActiveRecord.
 
