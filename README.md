@@ -12,7 +12,7 @@ https://medium.com/@julian.pormentilla
 Presentation Sample:
 http://youtu.be/p8LVmUfnsl4 
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=JulianCedric&show_icons=true&theme=gotham)](https://github.com/JulianCedric/github-readme-stats)
+<!--[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=JulianCedric&show_icons=true&theme=gotham)](https://github.com/JulianCedric/github-readme-stats)-->
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JulianCedric&layout=compact)](https://github.com/JulianCedric/github-readme-stats)-->
 
