@@ -1,12 +1,16 @@
 ## Hi there! 
 
-Customer Success professional with 10 years of experience selling and supporting customers with SaaS and educational services in the Silicon Valley and NYC tech scenes. Passionate about all things EdTech and driven by a hunger for continuous personal & professional growth. Graduate of a coding bootcamp eager to apply his consulting and technical expertise to solving hard problems, optimizing processes, contributing to customer-centered innovations, and most importantly, helping customers reach their business goals.
+A seasoned professional with over a decade of Customer Success and Sales experience in the Silicon Valley, NYC, and Austin tech scenes. Passionate about all things EdTech, AI, and personal & professional development. 
 
-Technical proficiencies in JavaScript, React, Ruby, Ruby on Rails, Salesforce CRM, HTML, CSS, Semantic UI, Git, MySQL Postgres, ActiveRecord.
+Having recently pivoted to frontend development (with a focus on React), I leverage my extensive consulting experience and technical skills to drive innovative, customer-centric solutions. 
 
 --
-My Blog: 
-https://medium.com/@julian.pormentilla
+Technical Skills:
+JavaScript, React, HTML/CSS, Ruby on Rails, Ruby, AWS, Heroku, PostgreSQL, MySQL, ActiveRecord, OpenAI GPT-3.5-Turbo Integration
+
+--
+Contact:
+julian.pormentilla@gmail.com
 
 --
 Presentation Sample:
