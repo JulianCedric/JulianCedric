@@ -2,8 +2,6 @@
 
 A seasoned professional with over a decade of Customer Success and Sales experience in the Silicon Valley, NYC, and Austin tech scenes. Passionate about all things EdTech, AI, AR, and personal & professional development. 
 
-Having recently pivoted to frontend development (with a focus on React), I leverage my extensive consulting experience and technical skills to drive innovative, customer-centric solutions. 
-
 --
 Technical Skills:
 JavaScript, React, HTML/CSS, Ruby on Rails, Ruby, AWS, Heroku, PostgreSQL, MySQL, ActiveRecord, OpenAI GPT-3.5-Turbo Integration
