@@ -1,6 +1,6 @@
 ## Hi there! 
 
-A seasoned professional with over a decade of Customer Success and Sales experience in the Silicon Valley, NYC, and Austin tech scenes. Passionate about all things EdTech, AI, AR, and personal & professional development. 
+Seasoned professional with over 10 years of experience supporting customers and selling SaaS products and educational services in Silicon Valley, Austin, and NYC tech environments. Passionate about all things Customer Success, AI, and personal & professional development. A coding bootcamp graduate, eager to leverage extensive consulting experience and technical skills to optimize processes, drive customer-centric innovations, and help customers achieve their business goals.
 
 --
 Technical Skills:
