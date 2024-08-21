@@ -1,6 +1,6 @@
 ## Hi there! 
 
-Seasoned professional with over 10 years of experience supporting customers and selling SaaS products and educational services in Silicon Valley, Austin, and NYC tech environments. Passionate about all things Customer Success, AI, and personal & professional development. A coding bootcamp graduate, eager to leverage extensive consulting experience and technical skills to optimize processes, drive customer-centric innovations, and help customers achieve their business goals.
+Seasoned professional with over 10 years of experience optimizing customer outcomes and driving business growth in the tech industries of Silicon Valley, Austin, TX, and NYC. Specialized skills in Customer Success, Account Management, and Sales, with a strong technical foundation for problem-solving and innovative thinking. Proven track record of increasing SaaS product adoption through strategic planning, enhancing customer satisfaction through effective training, and achieving business objectives through cross-functional team collaboration.
 
 --
 Technical Skills:
