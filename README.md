@@ -1,6 +1,6 @@
 ## Hi there! 
 
-Seasoned professional with over 10 years of experience optimizing customer outcomes and driving business growth in the tech industries of Silicon Valley, Austin, TX, and NYC. Specialized skills in Customer Success, Account Management, and Sales, with a strong technical foundation for problem-solving and innovative thinking. Proven track record of increasing SaaS product adoption through strategic planning, enhancing customer satisfaction through effective training, and achieving business objectives through cross-functional team collaboration.
+Seasoned professional with over 12 years of experience optimizing customer outcomes, ensuring client success, and driving business growth in the tech and education industries of Silicon Valley, Austin, TX, and NYC. Specialized skills in upselling, cross-selling, and renewals, with a strong technical foundation for problem-solving and innovative thinking. Proven track record of increasing SaaS product adoption through strategic planning, enhancing customer satisfaction through effective training, and achieving business objectives through cross-functional team collaboration.
 
 --
 Technical Skills:
